@@ -1,0 +1,13 @@
+.home-image{
+    width : 100%;
+    mask-image: linear-gradient(to bottom, rgb(0, 0, 0,1),rgba(0,0,0,0));
+    margin-bottom: -300px;
+    z-index: -1;
+    
+}
+
+.home-row{
+    display: flex;
+    justify-content: space-evenly ;
+    margin: 0 5px;
+}
